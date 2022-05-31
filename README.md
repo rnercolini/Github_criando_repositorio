@@ -1,14 +1,8 @@
-# Curso Dio - Primeiro Desafio Git/GitHub
+# DIO - TQI Fullstack Developer
 
-Criando o primeiro repositório para compartilhar progresso.
+Este repositório destina-se ao registro das anotações referentes ao curso TQI Fullstack Developer.
 
-
-
-## Passos
-
-1. Criar novo repositório no GitHub
-2. Clonar repositório para Local
-3. Adicionar novo conteúdo
+Será utilizado também para o envido do primeiro desafio, referente à atividade "Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso".
 
 
 
